@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MicroService-ConfigServer-dev
+    name: ConfigServer-dev
 eureka:
   instance:
     prefer-ip-address: true
